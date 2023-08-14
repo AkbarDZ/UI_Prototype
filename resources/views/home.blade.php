@@ -21,6 +21,37 @@
 
 <body>
 
+    <div class="container2">
+        <div class="title2">
+            <div class="label1">
+                <p>Daftar Product</p>
+            </div>
+            <div class="actions2">
+                <div class="button-group2">
+                    <p class="label">Yuk, Coba buat <br> Pelengkap</p>
+                    
+                    <i class="fa-solid fa-plus"></i>
+                </div>
+                <div class="button-group3">
+                    <i class="fa-solid fa-box-archive"></i>
+                </div>
+                <div class="dropdown">
+                    <button class="btn  dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-offset="0,0">
+                        <p> Atur Sekaligus </p>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Produk Terjual</a></li>
+                    </ul>
+                </div>
+                <div class="button-add">
+                    <p>+ Tambah Product</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+
     <div class="wrapper">
 
         <ul class="top-navigation">
