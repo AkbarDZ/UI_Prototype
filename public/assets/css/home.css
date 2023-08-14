@@ -7,6 +7,16 @@ i {
     color: gray;
 }
 
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+    appearance: none;
+    margin: 0;
+}
+
+input {
+    -moz-appearance: textfield;
+}
+
 .wrapper {
     background-color: white;
     border-radius: 10px;
